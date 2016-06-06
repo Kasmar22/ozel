@@ -12,9 +12,6 @@ AzeBot.cf - Bot v4
 <meta property="article:author" content="https://www.facebook.com/DjKenanProduction" />
 
 
-<script type='text/javascript' src='//go.pub2srv.com/apu.php?zoneid=502034'></script>
-
-<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=1lxt1rlw0u"></script>
 
 <?php
 session_start();
